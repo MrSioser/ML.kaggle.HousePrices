@@ -1,0 +1,25 @@
+# ───── IGNORE MODELED FILES ─────
+models/
+*.pkl
+*.joblib
+*.pth
+*.h5
+
+# ───── IGNORE DATA AND PROCESSED FILES ─────
+*.csv
+
+# ───── IGNORE CONFIGS/SYSTEM FILES ─────
+.DS_Store
+Thumbs.db
+
+# ───── IGNORE JUPYTER/VS CODE ENVIRONMENT ─────
+.ipynb_checkpoints/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# ───── IGNORE TEMPORARY BACKUP FILES ─────
+*.bak
+*.tmp
+*.swp
