@@ -1,5 +1,4 @@
 # ───── IGNORE MODELED FILES ─────
-models/
 *.pkl
 *.joblib
 *.pth
